@@ -1,3 +1,1 @@
-Backtracking model
-Djikstras coming soon
-A* coming soon
+A* and Djikstras Algo Maze Solver!
