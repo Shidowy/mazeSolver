@@ -1,1 +1,1 @@
-A* and Djikstras Algo Maze Solver!
+A* Djikstras, BFS, DFS Algo Maze Solver! KRUSKALS ALGO
